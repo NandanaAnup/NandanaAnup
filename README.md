@@ -1,6 +1,6 @@
 ## <p align="center"> 👋 Hey there, I’m Nandana! 
-🎯 **Aspiring Data Analyst**
-<!--
+### <p align="center">🎯 An Aspiring Data Analyst from Mumbai,India
+<!-- 
 **NandanaAnup/NandanaAnup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 ## 🚀 About 
@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🚀 About 
+   
+
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
@@ -23,4 +24,4 @@ Here are some ideas to get you started:
 
 
 ### 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)    
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-4D77CF?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)    
