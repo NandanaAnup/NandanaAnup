@@ -13,11 +13,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-   
 
+## 🚀 About    
 - 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
+  
+- 🤔 I’m looking to to collaborate on **Analysis and Visualization project**s.
+ 
+- 💼 Actively seeking **Data Analyst internships and full-time opportunities**
+  
+- 📫 How to reach me: [nanup629@gmail.com](mailto:nanup629@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nandana-anup-902255214)
+
+
+
+
+<!-- - 📙 Check out my [View My Resume](resume.pdf)
+-->
+
+
 
 
 
