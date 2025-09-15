@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJidXRxbGZvcGdmc2tqbjBnNzc3eDcwc21oeHBxMm53MmwzcHNmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif" align="right" width="300"/>
 
-## 🚀 About    
+### 🚀 About    
+
 - 🌱 I’m currently learning ...
   
 - 🤔 I’m looking to collaborate on **Analysis and Visualization project**s.
@@ -23,7 +25,7 @@ Here are some ideas to get you started:
   
 - 📫 How to reach me: [nanup629@gmail.com](mailto:nanup629@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nandana-anup-902255214)
 
-
+<!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJidXRxbGZvcGdmc2tqbjBnNzc3eDcwc21oeHBxMm53MmwzcHNmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif" align="right" width="300"/>
 
 
 <!-- - 📙 Check out my [View My Resume](resume.pdf)
