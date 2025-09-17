@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🚀 About    
 
-- 🌱 I’m currently learning ...
+<!-- - 🌱 I’m currently learning ...   -->
   
 - 🤔 I’m looking to collaborate on **Analysis and Visualization project**s.
  
