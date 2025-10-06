@@ -1,5 +1,6 @@
 ## <p align="center"> 👋 Hey there, I’m Nandana! 
 ### <p align="center">🎯 An Aspiring Data Analyst from Mumbai,India
+### ![Profile views](https://komarev.com/ghpvc/?username=NandanaAnup&color=blue)  
 <!-- 
 **NandanaAnup/NandanaAnup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
